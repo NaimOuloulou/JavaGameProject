@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="36" height="36" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="3">
+ <tileset firstgid="1" source="../tuiles/libraryedits.tsx"/>
+ <tileset firstgid="1297" source="../tuiles/tuile-logic.tsx"/>
+ <tileset firstgid="1397" source="../tuiles/libraryedits2.tsx"/>
+ <tileset firstgid="2693" name="maker-pixel-art" tilewidth="16" tileheight="16" tilecount="182" columns="14">
+  <image source="../tuiles/maker-pixel-art.jpg" width="235" height="209"/>
+ </tileset>
+ <tileset firstgid="2875" name="500_F" tilewidth="16" tileheight="16" tilecount="620" columns="31">
+  <image source="../tuiles/500_F.jpg" width="500" height="324"/>
+ </tileset>
+ <tileset firstgid="3495" name="libraryedits" tilewidth="16" tileheight="16" tilecount="1296" columns="36">
+  <image source="../tuiles/libraryedits.png" width="576" height="576"/>
+ </tileset>
+ <tileset firstgid="4791" name="libraryedits" tilewidth="16" tileheight="16" tilecount="1296" columns="36">
+  <image source="../tuiles/libraryedits.png" width="576" height="576"/>
+ </tileset>
+ <layer id="3" name="Calque de Tile 1" width="36" height="36">
+  <data encoding="base64" compression="gzip">
+   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
+  </data>
+ </layer>
+ <layer id="4" name="Calque 2" width="36" height="36" opacity="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACs1Xy47EIAybSz+gvZbr/v8vzs4BKWPZcUJZaStFiDYNxnkQzuP1un7l3CBP7VxhvDfItBUlfjuNzgijwouS7W3KIDYR7wiCvExcbI8DhHGiROl97H6e+/jGjngY/mib8YnrsfVvGBmvGR7mv+v4xhP37uZZvLE4Zusr/0X9yXv2oF5c/xZ40Ncq3pHPUcCDeopPxMnes31VcSh+1HesO8x/O/A4/Sr/Gc8r/FR5mvZ/imus8uP+W8XD7JyNPOuODjeem6xeMDvIk8ofV0+yuGf1r5tPWKc7eFgeVPeV8RTPsQoe5hc3r9ZvtW8V/51zis1X8azm167nv+BR+dX9381RlL7Li2p+qP3EXImC3509F9esP1J9m5urfqiDJ+vPVM/KaqXyl6vbiF/x0RXkp8pThv+JYDwpHC7HdvAz7wTMX3hfqOLZwU0lv6p44r/s3ujeYTw88RfGEt5bO+8cP65P69bx7qPyqluX/gqP40v5HefdvkfhUf2V48/xXB1ZPcEzgeWRwlnVU/jZ+aNs7BRn8w2NMOEiQBQAAA==
+  </data>
+ </layer>
+ <objectgroup id="6" name="trigger" offsetx="1" offsety="1" width="100" height="100">
+  <object id="2" type="teleport" x="287" y="48" width="31" height="55">
+   <properties>
+    <property name="dest-x" type="int" value="300"/>
+    <property name="dest-y" type="int" value="500"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

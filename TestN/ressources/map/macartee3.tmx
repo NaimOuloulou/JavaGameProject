@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="18" height="12" tilewidth="32" tileheight="48" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb" tilewidth="32" tileheight="48" tilecount="90" columns="15">
+  <image source="../tuiles/500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb.jpg" width="500" height="334"/>
+ </tileset>
+ <tileset firstgid="91" name="500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb2" tilewidth="32" tileheight="48" tilecount="36" columns="6">
+  <image source="../tuiles/500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb2.jpg" width="194" height="334"/>
+ </tileset>
+ <tileset firstgid="127" name="500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb23" tilewidth="32" tileheight="48" tilecount="45" columns="15">
+  <image source="../tuiles/500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb23.jpg" width="500" height="151"/>
+ </tileset>
+ <tileset firstgid="172" name="500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb234" tilewidth="32" tileheight="48" tilecount="150" columns="15">
+  <image source="../tuiles/500_F_207257831_4QlWygoT9sm7Gvvms9OcyRxaMDUyglcb234.jpg" width="480" height="480"/>
+ </tileset>
+ <tileset firstgid="322" name="morceau" tilewidth="32" tileheight="48" tilecount="1" columns="1">
+  <image source="../tuiles/morceau.jpg" width="32" height="48"/>
+ </tileset>
+ <tileset firstgid="323" name="morceau2" tilewidth="32" tileheight="48" tilecount="1" columns="1">
+  <image source="../tuiles/morceau2.jpg" width="52" height="52"/>
+ </tileset>
+ <tileset firstgid="324" name="morceau3" tilewidth="32" tileheight="48" tilecount="1" columns="1">
+  <image source="../tuiles/morceau3.jpg" width="32" height="48"/>
+ </tileset>
+ <tileset firstgid="325" name="SallePrincipaleVersionFinale" tilewidth="32" tileheight="48" tilecount="150" columns="15">
+  <image source="../tuiles/SallePrincipaleVersionFinale.jpg" width="480" height="480"/>
+ </tileset>
+ <tileset firstgid="475" name="morceau4" tilewidth="32" tileheight="48" tilecount="4" columns="2">
+  <image source="../tuiles/morceau4.jpg" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="479" name="morceau5" tilewidth="32" tileheight="48" tilecount="4" columns="2">
+  <image source="../tuiles/morceau5.jpg" width="64" height="96"/>
+ </tileset>
+ <tileset firstgid="483" name="morceau6" tilewidth="32" tileheight="48" tilecount="1" columns="1">
+  <image source="../tuiles/morceau6.jpg" width="32" height="48"/>
+ </tileset>
+ <tileset firstgid="484" name="morceau7" tilewidth="32" tileheight="48" tilecount="1" columns="1">
+  <image source="../tuiles/morceau7.jpg" width="32" height="48"/>
+ </tileset>
+ <tileset firstgid="485" name="morceau8" tilewidth="32" tileheight="48" tilecount="1" columns="1">
+  <image source="../tuiles/morceau8.jpg" width="32" height="48"/>
+ </tileset>
+ <tileset firstgid="486" name="tuile-logic" tilewidth="32" tileheight="48" tilecount="15" columns="5">
+  <image source="tuile-logic.png" width="160" height="160"/>
+ </tileset>
+ <tileset firstgid="501" source="../tuiles/tuile-logic.tsx"/>
+ <layer id="1" name="Calque de Tile 1" width="18" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACl3SS1NOcRwH8HPG3SqSWJGQlXJfsTBW3kHvgGEfXgBpH2rtfsmle6j0PKXcZrrRPSQxrJgRrfqcef7NHC0+8/uf3++c7/mfy/0oih5Qx0Me0cjJOIoeq0+opyH0E00000IrbTzlGc9pp4Ms5XI61Rd0kQn9RDc9vKSXPl7xmje85R2DnIpzTtPv+Ix6Ns7NhhjmPR8YYZQxxplgkjjOqeAcH/UuqLV8tp7hC7N8ZY5vUW5+gh/WP1M5F7lEJZepClm/nPM7ybKe5U8qpzZce4e73KOaK5znGjXL5kv3W8r5zvHQa6GVNsaZCPuZTp5v2XwmlTPPX/6xkHwD/V76mGSKq3xK3k38/3wFK1nFatawlnWsT+33Oje4yS1uB3lsYCP5bKKAzRSyha2pnHoaaKSJ5vAet7GdInZQzE52sZsS9qRyusiQpZuekLOXUsrYx34OcJBDHOZIqvYzkPx7DDHM0eAYI4wyxiKyPDmQYAMAAA==
+  </data>
+ </layer>
+ <layer id="2" name="Calque 2" width="18" height="12" opacity="0.06">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACnvGyMDwjIr4FRXNwYVBAJccujkggMyGAWQ5ZDF0PbjkcaknpA6fGCF5ZDE2Juz2YlOPyz247CcUdrjMpjScyTUHF6aGvyjFACUHrJBgAwAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="50" height="40" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="libraryedits" tilewidth="16" tileheight="16" tilecount="1296" columns="36">
+  <image source="../tuiles/libraryedits.png" width="576" height="576"/>
+ </tileset>
+ <layer id="1" name="Calque de Tile 1" width="50" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3UyQ3CMBBA0YSlE9ZOIIFOWPtl7ST/zCVDLs5I/8n/PpbGripJinvQk170pg99Sw40VM2hCU1pRvO69FD/WzDzkla0pg1tE95jx8x7aqilAx0T3uPEzGe60JVudP+5h29oXDK8ocjOpHhDgZ2JvKHSMuxMRN/OZPmrenfGv2pUUvxVARn+KkmSJEmSNFwHEIK3QEAfAAA=
+  </data>
+ </layer>
+</map>
